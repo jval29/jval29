@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jval29
+- 👋 Hi, I’m Valentin
 <!--- - 👀 I’m interested in ... ---!>
 
-- 🌱 I’m currently learning Python
+ 🌱 I’m currently learning Python / Automation testing
 <!--- - 💞️ I’m looking to collaborate on ... ---!>
 - 📫 
 
